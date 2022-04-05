@@ -38,3 +38,9 @@ li:hover {
     - 요소를 생성하지만 랜더링하지 않는다.
       레이아웃에 영향을 미친다.
 */
+
+
+/* grid */
+.grid-container {
+    display: grid;
+}
